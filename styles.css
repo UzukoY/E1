@@ -1,0 +1,45 @@
+.navigation{
+
+    height: 100%;
+}
+ 
+.navigation a{
+    height: 10%;
+    display: table;
+    float: left;
+    padding: 20px 240px;
+    background-color: #101010;
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: Lavender;
+}
+ 
+.navigation a:hover{
+    background-color: SlateBlue;
+    color: #101010;
+}
+
+body {
+  background-color: Lavender;
+}
+
+h1 {
+  color: DarkSlateBlue;
+}
+
+h2 {
+  color: DarkSlateBlue;
+}
+
+h3 {
+  color: DarkSlateBlue;
+}
+
+.text {
+  overflow: hidden;
+}
+
